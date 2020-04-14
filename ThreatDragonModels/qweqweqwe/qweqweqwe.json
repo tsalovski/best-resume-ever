@@ -1,15 +1,22 @@
 {
   "summary": {
-    "title": "qweqweqwe"
+    "title": "qweqweqwe",
+    "owner": "qwe",
+    "description": "qwe"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "asd"
+      }
+    ],
     "diagrams": [
       {
         "title": "diag",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
-    ]
+    ],
+    "reviewer": "qew"
   }
 }
